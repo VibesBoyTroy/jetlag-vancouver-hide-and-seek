@@ -15,4 +15,4 @@ Go to Google My Maps, choose **Create a new map**, then **Import**, and select t
 
 ## Credits and licence
 
-My own work here (map, rules, formulas, reference sheet) is released under CC0. Card text and questions belong to Jet Lag: The Game and its publishers. The workbook builds on a Google Sheets template shared by another redditor: [(https://old.reddit.com/r/JetLagTheGame/comments/1hsq0bi/can_anyone_give_me_a_brief_list_of_the_contents/?ref=share&ref_source=link)].
+My own work here (map, rules, formulas, reference sheet) is released under CC0. Card text and questions belong to Jet Lag: The Game and its publishers. The workbook builds on a Google Sheets template shared by another redditor: (https://old.reddit.com/r/JetLagTheGame/comments/1hsq0bi/can_anyone_give_me_a_brief_list_of_the_contents/?ref=share&ref_source=link).
