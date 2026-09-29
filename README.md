@@ -7,7 +7,7 @@ A two-seeker variant of Jet Lag: The Game's Hide & Seek, played across Metro Van
 - **Map (KMZ):** hiding zones (300 m radius), colour-coded pins, and regions for the SkyTrain lines, the 99 B-Line, R2/R4/R5 RapidBus, and some wildcard landmarks.
 - **Rules workbook (XLSX):** custom rules, scoring formulas, hider deck, curses, and seeker questions.
 - **Seeker Questions Reference Sheet:** a one-page handout for players.
-- **Greater Vancouver map (PDF):** Given the size of the file, the full print-quality version is on the [Releases page](https://github.com/VibesBoyTroy/jetlag-vancouver-hide-and-seek/releases/download/Map/Greater.Vancouver.Map.pdf).
+- **Greater Vancouver map (PDF, 55MB):** Given the size of the file, the full print-quality version is on the [Releases page](https://github.com/VibesBoyTroy/jetlag-vancouver-hide-and-seek/releases/download/Map/Greater.Vancouver.Map.pdf).
 
 ## Loading the map
 
